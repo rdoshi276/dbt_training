@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: stg_music_albums
+    description: This model has name of the albums and artists that created the album
+  - name: stg_music_artist
+  - name: stg_music_customer
+  - name: stg_music_employee
+  - name: stg_music_genre
+  - name: stg_music_invoice
+  - name: stg_music_invoiceline
+  - name: stg_music_mediatype
+  - name: stg_music_playlist
+  - name: stg_music_playlisttrack
+  - name: stg_music_track
